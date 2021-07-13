@@ -1,0 +1,1 @@
+# empty-repo-with-deleted-commit
